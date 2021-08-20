@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="question1">Москва столица России?</string>
+    <string name="question2">2+2=4</string>
+    <string name="question3">5-3=3</string>
+    <string name="question4">Солнце это зведа?</string>
+    <string name="question5">Луна это планета?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="show_answer">Показать ответ</string>
+    <string name="right_answer">Правильный ответ</string>
+    <string name="right">Правильно!</string>
+    <string name="wrong">Не правильно!</string>
+    <string name="right_count">Правильных ответов: %1$d</string>
+    <string name="your_answer">Ваш ответ: %1$s</string>
+</resources>
